@@ -1,0 +1,34 @@
+
+    h1 { color: blue;
+		font-size: 3em;
+		text-decoration: underline;
+		font: arial;
+		text-align: left
+		  }
+	body  { background-color: white;
+			  font-size: 17px;
+			  font-weight: bold;
+			  line-height: 2em;
+		  		font-style: oblique;
+			  text-align: justify;
+			font-family: sans-serif;
+		font: arial;
+		padding: 20px;
+		}	
+    .zanr, .autor, .zdroj {text-align: right;
+	}
+    .autor, .zdroj {margin-top: inherit;
+	margin-bottom: inherit;
+	}
+    h2 {font-size: 2em;
+	color: indianred;
+	}
+    i {font-style: italic;
+	color: darkslategrey;
+	}
+	blockquote {color: darkred;
+		}
+    
+    footer {font-size: 2em;
+	text-align: center;
+		}
